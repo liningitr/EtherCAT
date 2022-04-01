@@ -49,3 +49,31 @@ https://blog.csdn.net/qq_20817327/article/details/107749216?spm=1001.2101.3001.6
 你知道以太网数据帧在网络中如何发送和接收的吗？一文带你搞懂它
 
 https://blog.51cto.com/u_15023282/2559064
+
+STM32开发笔记52：STM32F4+DP83848以太网通信指南系列（六）：Wireshark使用
+
+https://blog.csdn.net/qingwufeiyang12346/article/details/84846061
+
+STM32开发笔记47：STM32F4+DP83848以太网通信指南系列（一）：知识储备
+
+https://snmplink.blog.csdn.net/article/details/84845677
+
+STM32开发笔记50：STM32F4+DP83848以太网通信指南系列（四）：PHY配置
+
+https://snmplink.blog.csdn.net/article/details/84845984?spm=1001.2101.3001.6650.16&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-16.pc_relevant_paycolumn_v3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-16.pc_relevant_paycolumn_v3&utm_relevant_index=18
+
+STM32开发笔记51：STM32F4+DP83848以太网通信指南系列（五）：MAC+DMA配置
+
+https://snmplink.blog.csdn.net/article/details/84846019?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7EPayColumn-1.pc_relevant_antiscanv2&utm_relevant_index=1
+
+STM32开发笔记47：STM32F4+DP83848以太网通信指南系列（一）：知识储备
+
+https://snmplink.blog.csdn.net/article/details/84845677
+
+STM32以太网通信-STM32以太网外设（ETH）
+
+https://blog.csdn.net/qq_33559992/article/details/112605995
+
+STM32-ETH-Lwip以太网通信 (曼彻斯特编码，支持物理层帧结束检测)
+
+https://www.cnblogs.com/luoxiao23/p/11210494.html
