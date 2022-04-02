@@ -16,7 +16,7 @@ EtherCAT协议介绍.pdf
 
 https://max.book118.com/html/2018/0112/148441180.shtm
 
-EtherCAT - 以太网现场总线
+EtherCAT - 以太网现场总线 (EtherCAT Technology Group _ 技术概览)
 
 https://www.ethercat.org.cn/cn/technology.html
 
