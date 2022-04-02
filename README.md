@@ -8,6 +8,18 @@ https://blog.csdn.net/pwl999/article/details/109397700
 
 https://www.coder.work/article/6845390
 
+记录STM32开发一个完整的EtherCAT的过程！
+
+https://bbs.21ic.com/icview-2836518-1-6.html
+
+EtherCAT协议介绍.pdf
+
+https://max.book118.com/html/2018/0112/148441180.shtm
+
+EtherCAT - 以太网现场总线
+
+https://www.ethercat.org.cn/cn/technology.html
+
 # Ethernet
 
 基于TCP/UDP，面向用户应用的Socket编程API，操作系统编程环境提供
