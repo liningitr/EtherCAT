@@ -89,3 +89,11 @@ https://blog.csdn.net/qq_33559992/article/details/112605995
 STM32-ETH-Lwip以太网通信 (曼彻斯特编码，支持物理层帧结束检测)
 
 https://www.cnblogs.com/luoxiao23/p/11210494.html
+
+集线器、交换机和路由器之间有何不同？
+
+https://cn.fs.com/blog/23715.html#:~:text=%E5%85%B6%E5%AE%9E%E9%9B%86%E7%BA%BF%E5%99%A8%E5%92%8C%E4%BA%A4%E6%8D%A2%E6%9C%BA%E7%9A%84,%E3%80%81%E4%BA%A4%E6%8D%A2%E3%80%81%E5%A4%84%E7%90%86%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82
+
+你知道以太网数据帧在网络中如何发送和接收的吗？一文带你搞懂它
+
+https://blog.51cto.com/u_15023282/2559064
